@@ -1,0 +1,11 @@
+book:
+    title:            "Guide d'intégration"
+    module:           "Mail Connector"
+    version:          "0.6"
+    edition:          "1"
+    githubsrc: "https://github.com/Anakeen/dynacase-doc-mailconnector-integration"
+    language:         fr
+    chapters: 
+        - level:   "1"
+          content:  "introduction.md"
+
