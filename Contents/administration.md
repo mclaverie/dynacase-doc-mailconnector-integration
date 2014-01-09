@@ -2,8 +2,9 @@
 
 Dans le centre d'administration, l'administrateur dispose d'une nouvelle entrée
 “Administration des boîtes aux lettres”. Cette entrée permet de lister
-l'ensemble des boîtes aux lettres visibles. Selon ses droits, il peut alors les
-supprimer ou les modifier (modification des paramètres de connexion).
+l'ensemble des boîtes aux lettres visibles. Selon ses droits, l'administrateur
+peut alors les supprimer ou les modifier (modification des paramètres de
+connexion).
 
 
 L'application `MAILCONNECTOR` dispose du paramètre suivant :
